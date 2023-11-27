@@ -1,0 +1,21 @@
+{
+    "items": [
+      {
+        "name": "Product A",
+        "product_hierarchy_level_id": 1,
+        "details": {
+          "price": 20.0,
+          "quantity": 50
+        }
+      },
+      {
+        "name": "Product B",
+        "product_hierarchy_level_id": 2,
+        "details": {
+          "price": 30.0,
+          "quantity": 30
+        }
+      }
+    ]
+  }
+  
